@@ -1,0 +1,10 @@
+[package]
+name = "ziman/idris-bytes"
+version = "0.1.0"
+authors = []
+
+[dependencies]
+
+[targets.lib]
+path = "."
+mods = []
